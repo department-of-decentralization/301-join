@@ -1,2 +1,3 @@
-# r
-303 nothing to see here
+# 301-join
+redirect for join protocol berlin
+
